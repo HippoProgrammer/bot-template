@@ -1,1 +1,4 @@
-# this is where the example config file should be
+# example config file
+config:
+  token_file: /run/secrets/bot-token
+  error_ping: 1271403487045095465
