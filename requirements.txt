@@ -1,2 +1,2 @@
-py-cord[speed]==2.8.0 # Discord API wrapper
+py-cord[speed]==2.8.1 # Discord API wrapper
 PyYAML==6.0.3
